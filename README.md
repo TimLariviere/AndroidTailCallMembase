@@ -5,11 +5,11 @@
 ```sh
 dotnet workload restore
 ```
-2) Execute the following command:
+3) Compile the project in Release mode
 ```sh
 dotnet build -f net8.0-android -c Release /p:AndroidSigningKeyStore=tailcall.keystore /p:AndroidSigningStorePass=tailcall /p:AndroidSigningKeyAlias=tailcall /p:AndroidSigningKeyPass=tailcall
 ```
-3) Build should fail with the following error
+4) Build will fail with the following error
 ```
 error : wrong maximal instruction length of instruction tailcall_membase (expected 255, got 256)
 ```
