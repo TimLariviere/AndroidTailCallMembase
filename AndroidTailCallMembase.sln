@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "AndroidTailCallMembase", "AndroidTailCallMembase.fsproj", "{5223DCB4-A49D-4D45-97A3-D62583F3A1D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5223DCB4-A49D-4D45-97A3-D62583F3A1D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5223DCB4-A49D-4D45-97A3-D62583F3A1D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5223DCB4-A49D-4D45-97A3-D62583F3A1D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5223DCB4-A49D-4D45-97A3-D62583F3A1D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
